@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>Operações Aritiméticas</title>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <title>Operações Aritiméticas</title>
+</head>
     <body>  
 <?php
 $preco = 120;
@@ -21,6 +21,5 @@ echo "Valor de cada parcela: R$ $tres <br>";
 echo "Valor com taxa de 15: R$ $quatro <br>";
 echo "Resto da divisão por 2: $cinco <br>";
 ?>
-    ?>
     </body>
 </html>
